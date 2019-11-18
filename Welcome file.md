@@ -1,6 +1,6 @@
 ## ***Submitted By :***
 ##### ***Name : Harleen Kaur***           
-##### ***Roll No. : 1921058***
+##### ***Roll No. : 1921037***
 ##### ***Branch : Information Tecnology(I.T)***
 ##### ***Section  : I.T. A2***
 
@@ -131,17 +131,17 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 **OUTPUT:**
 ```
 Enter your information:
-Name = k
+Name = harleen
 
 Roll no=1921037
 
 Age = 18
 
-Phone no.= 9988988833
+Phone no.= 7889715349
 
 The name is harleen
 Your roll no is 1921037
-My phone number is 9988988833
+My phone number is 7889715349
  My age is 18
  ```
 ## 5:To show area,perimeter,volume of square
@@ -639,5 +639,5 @@ product of the matrix:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4MDU2NjUwXX0=
+eyJoaXN0b3J5IjpbLTIwNzQxNDQ4MzldfQ==
 -->
