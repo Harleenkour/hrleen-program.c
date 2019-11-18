@@ -1,5 +1,5 @@
 ## ***Submitted By :***
-##### ***Name : Kunwar***           
+##### ***Name : Harleen Kaur***           
 ##### ***Roll No. : 1921058***
 ##### ***Branch : Information Tecnology(I.T)***
 ##### ***Section  : I.T. A2***
@@ -79,7 +79,7 @@ puts("|____________|____________|");
 }
 int d()
 {
-puts("       Harleen Kaur");
+puts("       HARLEEN KAUR");
 }
 }
 ```
@@ -96,7 +96,7 @@ ___________________________
 |         \_______/         |
 |              |            |
 |____________|____________|
-       H
+       HARLEEN KAUR
 ```
 ## 4:To fill your information
 
@@ -638,5 +638,5 @@ product of the matrix:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTIyMjAxOF19
+eyJoaXN0b3J5IjpbLTExMTU5NTcyMjBdfQ==
 -->
