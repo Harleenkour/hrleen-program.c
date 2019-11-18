@@ -131,16 +131,16 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 **OUTPUT:**
 ```
 Enter your information:
-Name = kunwar
+Name = k
 
-Roll no=1921058
+Roll no=1921037
 
 Age = 18
 
 Phone no.= 9988988833
 
-The name is kunwar
-Your roll no is 1921058
+The name is harleen
+Your roll no is 1921037
 My phone number is 9988988833
  My age is 18
  ```
@@ -639,5 +639,5 @@ product of the matrix:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjUxNDMyNF19
+eyJoaXN0b3J5IjpbMzQ4MDU2NjUwXX0=
 -->
